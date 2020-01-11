@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2019/12/star-wars-peliculas.jpg?itok=e68dfHFp"); 
+  background-size: cover;
+
+  
 }
 
 code {
