@@ -1,14 +1,7 @@
 import React from 'react';
 
-import Modal from './../components/modal';
-
-
 
 class Card extends React.Component {
-
-    constructor(props) {
-        super(props);
-    }
 
     sendIndex = (e) => {
         e.preventDefault();

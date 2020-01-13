@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
+import React, {} from 'react';
 import { Context } from './../store/appContext';
-import Modal from './../components/modal';
 import Card from './../components/card';
 
 
@@ -8,6 +7,7 @@ class People extends React.Component {
 
     constructor(props) {
         super(props);
+        
         this.state = {
             modal: {
                 modalName: "",
